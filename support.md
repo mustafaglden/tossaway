@@ -4,6 +4,8 @@ title: Support — Toss Away
 
 # Support
 
+**English** · [Español](es/support) · [Português](pt-br/support) · [Français](fr/support)
+
 **mmustafaa.guldenn@gmail.com** — questions, bugs, refunds, anything.
 
 Include your iPhone model and iOS version if you are reporting a problem; it

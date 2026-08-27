@@ -4,6 +4,8 @@ title: Privacy Policy — Toss Away
 
 # Privacy Policy
 
+**English** · [Español](es/privacy) · [Português](pt-br/privacy) · [Français](fr/privacy)
+
 *Last updated: 27 August 2026*
 
 Toss Away is a photo-library cleaner for iPhone. This policy explains exactly

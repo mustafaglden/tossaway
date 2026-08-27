@@ -4,6 +4,8 @@ title: Terms of Service — Toss Away
 
 # Terms of Service
 
+**English** · [Español](es/terms) · [Português](pt-br/terms) · [Français](fr/terms)
+
 *Last updated: 26 August 2026*
 
 ## The app

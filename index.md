@@ -4,6 +4,8 @@ title: Toss Away
 
 # Toss Away
 
+**English** · [Español](es/index) · [Português](pt-br/index) · [Français](fr/index)
+
 Swipe through your screenshots, videos and photos like a deck of cards. Keep what
 matters, bin the rest. Everything is analysed on your iPhone — nothing is
 uploaded, and there is no account.
