@@ -4,7 +4,7 @@ title: Privacy Policy — Toss Away
 
 # Privacy Policy
 
-*Last updated: 26 August 2026*
+*Last updated: 27 August 2026*
 
 Toss Away is a photo-library cleaner for iPhone. This policy explains exactly
 what the app does and does not do with your data. It is short because the app
@@ -34,13 +34,13 @@ Deleting the app removes all of it.
 
 ## Analytics
 
-Toss Away uses TelemetryDeck to count anonymous product events — for example
-that a cleaning session finished. These events carry **no personal information
-and no advertising identifier**, are not linked to your identity, and are never
-used for tracking across other apps or websites. Counts are bucketed rather than
-exact.
+**Toss Away collects no analytics.** No usage events, no product metrics, no
+crash reports, no advertising identifier. The app ships with no analytics SDK at
+all, so there is nothing to opt out of.
 
-If analytics are not configured in the build you installed, none are sent at all.
+It makes no network requests of its own. The only network traffic is Apple's own:
+the App Store handling a purchase or a restore, and this page opening in your
+browser if you tap the link inside the app.
 
 ## Purchases
 
