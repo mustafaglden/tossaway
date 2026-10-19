@@ -6,9 +6,10 @@ title: Privacy Policy — Toss Away
 
 **English** · [Español](es/privacy) · [Português](pt-br/privacy) · [Français](fr/privacy)
 
-*Last updated: 27 August 2026*
+*Last updated: 17 October 2026*
 
-Toss Away is a photo-library cleaner for iPhone. This policy explains exactly
+Toss Away is a screenshot reader for iPhone: it reads your screenshots on the
+device and sorts them by what they say. This policy explains exactly
 what the app does and does not do with your data. It is short because the app
 collects almost nothing.
 
@@ -19,8 +20,8 @@ to measure how much space they take. It analyses them **entirely on your
 iPhone**, using Apple's Vision framework.
 
 No image, no recognised text, no filename and no thumbnail is ever transmitted,
-uploaded or stored anywhere outside your device. There is no server, no account
-and no sign-in.
+uploaded or stored anywhere outside your device. Toss Away has no backend and
+asks you to create nothing: no account, no login.
 
 ## What is stored, and where
 
@@ -46,7 +47,7 @@ browser if you tap the link inside the app.
 
 ## Purchases
 
-Subscriptions and the lifetime purchase are handled by Apple. Toss Away never
+Apple processes the weekly, yearly and lifetime purchases. Toss Away never
 sees your payment details. Apple tells the app only whether an entitlement is
 active.
 
@@ -59,8 +60,8 @@ removed permanently — the app warns you before doing it.
 
 ## Deleting photos
 
-Toss Away never deletes anything without your confirmation. Items you swipe away
-are staged in the app's Trash. Deleting them goes through the standard iOS
+Toss Away never deletes anything without your confirmation. Items you delete in
+the app are staged in its Trash. Deleting them goes through the standard iOS
 confirmation dialog, after which the photos sit in your **Recently Deleted**
 album for 30 days, exactly as they would if you deleted them in the Photos app.
 

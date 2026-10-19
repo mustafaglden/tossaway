@@ -13,12 +13,29 @@ normalmente ahorra un intercambio de correos.
 
 ## Preguntas frecuentes
 
+### ¿Qué hace Toss Away?
+
+Lee el texto de tus capturas, en tu iPhone, y las ordena según lo que dicen:
+códigos, recibos, chats, mapas, compras, redes sociales, pantallas de apps y un
+grupo de Datos sensibles para números de tarjeta, IBAN y números de identidad.
+Puedes buscar dentro de ellas, exportar recibos a CSV y ver juntos los casi
+duplicados.
+
+### ¿Puedo probarla sin capturas propias?
+
+Sí. En la pantalla vacía, toca **Probar con capturas de ejemplo**. Toss Away
+guarda 38 capturas de ejemplo en un álbum "Toss Away Samples" y las ordena en
+segundos. Necesita acceso completo a las fotos; con una selección limitada, la
+app solo ve las fotos que elegiste. Ajustes → Datos → **Eliminar capturas de
+ejemplo** las borra de nuevo.
+
 ### ¿Toss Away borra mis fotos al instante?
 
-No. Deslizar a la izquierda *prepara* un elemento, no lo borra. Todo espera en la
-Papelera de la app hasta que lo revisas y confirmas. La eliminación pasa entonces
-por el diálogo estándar de iOS, y después las fotos permanecen 30 días en tu
-álbum **Eliminados recientemente**.
+No. Borrar una captura en Toss Away (desde un grupo, en la Revisión rápida o con
+Borrar todo) la *prepara*; todavía no se elimina nada. Todo espera en la
+Papelera de la app hasta que lo revisas y confirmas. La eliminación pasa
+entonces por el diálogo estándar de iOS, y después las fotos permanecen 30 días
+en tu álbum **Eliminados recientemente**.
 
 ### He borrado algo sin querer.
 
@@ -32,8 +49,8 @@ basta con tocarlo para restaurarlo.
 
 La app lee todas las capturas de tu dispositivo para ordenarlas por contenido, y
 lo hace localmente en lugar de en un servidor. En una fototeca grande la primera
-pasada tarda unos minutos; se ejecuta en segundo plano y se pausa mientras
-deslizas.
+pasada tarda unos minutos; se ejecuta en segundo plano y se pausa mientras la
+Revisión rápida está abierta.
 
 En dispositivos configurados en japonés, coreano, chino o ruso tarda bastante
 más: esos alfabetos necesitan un modelo de texto más pesado.
@@ -44,9 +61,10 @@ No. Nada sale de tu dispositivo. Consulta la [política de privacidad](privacy).
 
 ### ¿Qué añade Pro?
 
-Pro quita el límite de 25 eliminaciones al día y añade categorías inteligentes,
-agrupación de casi duplicados y borrado masivo. Agrupar por fecha y por tamaño es
-gratis y siempre lo será.
+Pro añade **Borrar todo** (vaciar un grupo entero con un toque), la exportación
+de recibos a CSV y los grupos de casi duplicados. Todas las categorías
+inteligentes, la búsqueda dentro de tus capturas y la revisión una a una son
+gratis, y no hay límite diario.
 
 ### ¿Cómo cancelo mi suscripción?
 

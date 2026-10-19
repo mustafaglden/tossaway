@@ -6,9 +6,10 @@ title: Política de Privacidad — Toss Away
 
 [English](../privacy) · **Español** · [Português](../pt-br/privacy) · [Français](../fr/privacy)
 
-*Última actualización: 27 de agosto de 2026*
+*Última actualización: 17 de octubre de 2026*
 
-Toss Away es un limpiador de fototeca para iPhone. Esta política explica
+Toss Away es un lector de capturas de pantalla para iPhone: lee tus capturas en
+el dispositivo y las ordena según lo que dicen. Esta política explica
 exactamente qué hace y qué no hace la app con tus datos. Es corta porque la app
 casi no recoge nada.
 
@@ -60,8 +61,8 @@ antes de hacerlo.
 
 ## Eliminar fotos
 
-Toss Away nunca borra nada sin tu confirmación. Los elementos que descartas
-deslizando quedan preparados en la Papelera de la app. Al eliminarlos se pasa por
+Toss Away nunca borra nada sin tu confirmación. Los elementos que borras en la
+app quedan preparados en su Papelera. Al eliminarlos se pasa por
 el diálogo de confirmación estándar de iOS, tras lo cual las fotos permanecen 30
 días en tu álbum **Eliminados recientemente**, exactamente igual que si las
 borraras desde la app Fotos.

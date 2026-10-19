@@ -6,7 +6,7 @@ title: Terms of Service — Toss Away
 
 **English** · [Español](es/terms) · [Português](pt-br/terms) · [Français](fr/terms)
 
-*Last updated: 26 August 2026*
+*Last updated: 19 October 2026*
 
 ## The app
 
@@ -24,16 +24,15 @@ recovered — the app warns you before it does this.
 Toss Away Pro is available as a weekly subscription with a 3-day free trial, as
 a yearly subscription, or as a one-time lifetime purchase.
 
-- Payment is charged to your Apple Account at confirmation of purchase.
-- Subscriptions renew automatically unless cancelled at least 24 hours before
-  the end of the current period.
-- Your account is charged for renewal within 24 hours of the period ending.
-- Manage or cancel in iPhone Settings → your name → Subscriptions.
-- Any unused portion of a free trial is forfeited when a subscription is
-  purchased.
-- The lifetime purchase is one-time and does not renew.
+Apple charges your Apple Account when you confirm a purchase. The weekly and
+yearly plans renew on their own unless you turn renewal off at least 24 hours
+before the period ends; the renewal charge is made in the last 24 hours of the
+period. You can turn renewal off in iPhone Settings → your name →
+Subscriptions. If you buy a plan during the free trial, the rest of the trial
+ends. Lifetime is a single payment and never renews.
 
-Refunds are handled by Apple, not by us: **reportaproblem.apple.com**.
+Apple processes all payments, so refund requests go to Apple at
+**reportaproblem.apple.com**.
 
 ## No warranty
 
@@ -43,8 +42,8 @@ choose to delete.
 
 ## Changes
 
-These terms may change; the date above changes with them. Continued use after a
-change means you accept it.
+If these terms are updated, the "Last updated" date at the top moves too. Using
+Toss Away after an update means you agree to the new version.
 
 ## Contact
 
